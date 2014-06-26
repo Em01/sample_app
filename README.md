@@ -5,15 +5,10 @@ This is the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 
-###Technologies Used
+##Technologies Used
 ----------
 - Sublime Text
-- Git & GitHub
+- Git
 - Rails
-
-
-###Languages Used
-----------
-
 - HTML
 - CSS
