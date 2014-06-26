@@ -6,7 +6,6 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 
 ##Technologies Used
-----------
 - Sublime Text
 - Git
 - Rails
